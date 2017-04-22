@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'adomino';
+    src: url('../fonts/adomino.ttf');
+}
+
+body{
+    font-family: 'adomino';
+}
+
+.space{
+    width: 10%;
+}
+.left_field{
+    width: 20%;
+}
+.menright_fieldu_panel{
+    width: 60%;
+}
+
+a.menu:link{
+    font-size: 20px;
+    color: #555555;
+    text-decoration: none;
+}
+a.menu:visited{
+    font-size: 20px;
+    color: #555555;
+    text-decoration: none;
+}
+a.menu:active{
+    font-size: 20px;
+    color: #555555;
+    text-decoration: none;
+}
+a.menu:hover{
+    font-size: 20px;
+    color: crimson;
+    text-decoration: none;
+}
+
+
+#asmenu{
+    font-size: 20px;
+    color: #000000;
+    text-decoration: none;
+}
+
+
+a.menuHave:link{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    text-decoration: none;
+}
+a.menuHave:visited{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    text-decoration: none;
+}
+a.menuHave:active{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    text-decoration: none;
+}
+a.menuHave:hover{
+    font-size: 20px;
+    font-weight: bolder;
+    color: crimson;
+    text-decoration: none;
+}
+
+#menu{
+    vertical-align: top;
+}
+
+#headTable{
+    font-size: 12pt;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bolder;
+    color: #555555;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#footTable{
+    font-size: 10pt;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bolder;
+    color: #555555;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#textTable{
+    font-size: 12pt;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #555555;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#left{
+    text-align: left;
+}
+
+#right{
+    text-align: right;
+}
+
+#cont{
+    vertical-align: top;
+    text-align: justify;
+}
+
+#requisite{
+    font-size: 10pt;
+    color: #838B83;
+    text-align: right;
+    vertical-align: middle;
+    padding-right: 10px;
+}
+
+#input_field_normal{
+    font-size: 12pt;
+    color: #006400;
+    width: 250pt;
+    background-color: #E0EEE0;
+    font-family: 'adomino';
+}
+#input_field_small{
+    font-size: 12pt;
+    color: #006400;
+    width: 125pt;
+    background-color: #E0EEE0;
+    font-family: 'adomino';
+}
+
+#input_area_normal{
+    font-size: 12pt;
+    color: #006400;
+    width: 250pt;
+    height: 50pt;
+    margin-top: 3px;
+    background-color: #E0EEE0;
+    font-family: 'adomino';
+}
+
+#grow{
+    height: 22pt;
+}
+
+#logo{
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+a.logo:link{
+    font-family: 'adomino';
+    font-size: 30px;
+    color: #555555;
+    text-decoration: none;
+}
+a.logo:visited{
+    font-family: 'adomino';
+    font-size: 30px;
+    color: #555555;
+    text-decoration: none;
+}
+a.logo:active{
+    font-family: 'adomino';
+    font-size: 30px;
+    color: #555555;
+    text-decoration: none;
+}
+a.logo:hover{
+    font-family: 'adomino';
+    font-size: 30px;
+    color: crimson;
+    text-decoration: none;
+}
+
+#headpage{
+    font-size: 16pt;
+    height: 50px;
+    text-align: left;
+    vertical-align: middle;
+    padding-left: 25px;
+    color: #555555;
+}
+
+#messages{
+    color: #8B3A3A;
+    text-align: center;
+    vertical-align: middle;
+}
+
+p{
+    text-indent: 1.5em;
+    text-align: justify;
+}
+
+#footer{
+    color: #555555;
+    text-align: right;
+    vertical-align: middle;
+    font-size: 10pt;
+}
+#heightContent{
+    height: 450px;
+}
