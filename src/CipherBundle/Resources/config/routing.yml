@@ -1,0 +1,11 @@
+cipher_homepage:
+    path:     /
+    defaults: { _controller: CipherBundle:Default:index }
+
+home_homepage:
+    path:     /home
+    defaults: { _controller: CipherBundle:Home:index }
+
+welcome_homepage:
+    path:     /welcome
+    defaults: { _controller: CipherBundle:Welcome:index }
